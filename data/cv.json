@@ -1,69 +1,193 @@
 {
-  "summary": "Postdoctoral researcher focusing on biomineralization in marine phytoplankton and carbon cycling. Experienced in algal culturing, proteomics, and geochemistry.",
+  "summary": "My research focuses on understanding shell formation, or “Biomineralisation” in marine organisms. Knowing the precise biological and chemical mechanisms of biomineralisation is crucial because it has implications for predicting the response of biomineralising marine organisms to climate change, as their minerals are directly affected by it. Fossil minerals serve as invaluable records of past environmental conditions, helping scientists infer historical climate patterns. Calcium carbonate shells also sequester carbon taken up from the surface into the deep ocean, influencing the global carbon cycle.",
   "positions": [
     {
-      "title": "Postdoctoral Research Associate",
+      "title": "Research Associate",
       "org": "Department of Earth Sciences, University of Cambridge",
-      "start": "2023",
+      "start": "2024-06",
       "end": "present",
       "location": "Cambridge, UK",
-      "description": "Research on coccolithophore biomineralization and carbonate chemistry."
+      "description": "Investigating the molecular mechanisms controlling biomineralisation in marine organisms; co-supervising 2 PhD students."
     },
     {
-      "title": "PhD Researcher",
-      "org": "[Your University]",
-      "start": "2019",
-      "end": "2023",
-      "location": "[City, Country]",
-      "description": "Thesis on ..."
+      "title": "College Post-doctoral Associate (non-stipendiary)",
+      "org": "Jesus College, University of Cambridge",
+      "start": "2024-10",
+      "end": "present",
+      "location": "Cambridge, UK",
+      "description": "Engaged in college academic community and environmental initiatives."
+    },
+    {
+      "title": "Fellow",
+      "org": "Oxford SDG Impact Lab – Rosberg Philanthropies – The Ocean Cleanup",
+      "start": "2023-01",
+      "end": "2023-08",
+      "location": "Oxford, UK",
+      "description": "Investigated marine life interaction with the Great Pacific Garbage Patch; co-authored Environmental Impact Assessment report on plastic cleanup."
+    },
+    {
+      "title": "Visiting Scientist",
+      "org": "Living Reefs Foundation",
+      "start": "2022-07",
+      "end": "2022-08",
+      "location": "Bermuda",
+      "description": "Explored mineral accretion and chimerism as a tool for coral reef rehabilitation."
+    },
+    {
+      "title": "DPhil Researcher",
+      "org": "Department of Earth Sciences, University of Oxford",
+      "start": "2020",
+      "end": "2024",
+      "location": "Oxford, UK",
+      "description": "Multi-disciplinary study on coccolithophore responses to changes in seawater pH; integrated physiology, geochemistry, and omics approaches."
+    },
+    {
+      "title": "Summer Intern",
+      "org": "The Centre for Oceans, Rivers, Atmosphere and Land Sciences, IIT Kharagpur",
+      "start": "2020-05",
+      "end": "2020-08",
+      "location": "India",
+      "description": "Studied anthropogenic eutrophication and algal bloom dynamics in the Arabian Sea."
     }
   ],
   "education": [
     {
-      "degree": "PhD, Biogeochemistry",
-      "institution": "[Your University]",
-      "start": "2019",
-      "end": "2023",
-      "location": "[City]",
-      "thesis": "[Thesis title here]"
+      "degree": "Doctor of Philosophy (DPhil), Earth Sciences",
+      "institution": "University of Oxford",
+      "start": "2020",
+      "end": "2024",
+      "location": "Oxford, UK",
+      "thesis": "Using pH to Understand Species-Specific Coccolithophore Dynamics: A Multi-Disciplinary Approach"
     },
     {
-      "degree": "MSc, [Discipline]",
-      "institution": "[Your University]",
-      "start": "2017",
-      "end": "2019",
-      "location": "[City]"
+      "degree": "Master of Science (MSc), Geology",
+      "institution": "Indian Institute of Technology (IIT) Kharagpur",
+      "start": "2018",
+      "end": "2020",
+      "location": "Kharagpur, India"
+    },
+    {
+      "degree": "Bachelor of Science (BSc), Geology",
+      "institution": "St. Xavier’s College",
+      "start": "2015",
+      "end": "2018",
+      "location": "Mumbai, India"
     }
   ],
   "skills": [
-    "Python",
     "R",
+    "Python",
+    "UNIX Shell",
+    "HPC",
+    "Git",
     "Proteomics",
+    "Biogeochemistry",
     "Algal culturing",
     "Gaussian processes",
-    "Data visualization"
-  ],
-  "publications": [
-    {
-      "authors": "You, B., Colleague, C.",
-      "year": "2025",
-      "title": "A cool paper title",
-      "venue": "Journal Name",
-      "doi": "https://doi.org/10.xxxx/xxxxx"
-    },
-    {
-      "authors": "You, B., Another, A.",
-      "year": "2024",
-      "title": "Another paper title",
-      "venue": "Journal Name"
-    }
+    "Data visualisation",
+    "SCUBA diving (BSAC Sports Diver, 40m)",
+    "Languages: Hindi (native), Spanish (B2)"
   ],
   "awards": [
     {
-      "name": "Grant ABC",
-      "org": "Funding Body",
+      "name": "NERC Environmental Omics Facility Pilot Grant",
+      "org": "NERC",
+      "year": "2023",
+      "note": "£14,626.89 grant for gene expression analysis of coccolithophores under stress"
+    },
+    {
+      "name": "Clarendon Scholarship",
+      "org": "University of Oxford",
+      "year": "2020-2024"
+    },
+    {
+      "name": "St. John’s Kendrew Scholarship",
+      "org": "University of Oxford",
+      "year": "2020-2024"
+    },
+    {
+      "name": "Burdett Coutts Research Grant",
+      "org": "University of Oxford",
+      "year": "2022"
+    },
+    {
+      "name": "Oxford University Careers Service Innovation Award",
+      "year": "2022"
+    }
+  ],
+  "teaching": [
+    {
+      "role": "Co-supervisor",
+      "activity": "2 PhD students",
+      "institution": "University of Cambridge",
+      "year": "2024-present"
+    },
+    {
+      "role": "Co-supervisor",
+      "activity": "2 Master's research projects",
+      "institution": "University of Oxford",
+      "year": "2020-2024"
+    },
+    {
+      "role": "Practical/Tutorial Instructor",
+      "courses": [
+        "Climate Tutorials and Practical (3rd Year)",
+        "Isotope Geology Practical (2nd Year)",
+        "Sedimentary Petrography Practical (2nd Year)",
+        "Fundamentals of Chemistry Tutorials and Practical (1st Year)",
+        "Aqueous Chemistry Tutorials (1st Year)"
+      ],
+      "institution": "University of Oxford",
+      "year": "2020-2024"
+    }
+  ],
+  "outreach": [
+    {
       "year": "2024",
-      "note": "Project short description"
+      "activities": [
+        "Summer science exhibition at The Royal Society (In your element exhibit)",
+        "Goodbye Greenhouse Gas! UK Energy Research Centre demonstration",
+        "Science on the Radio (WRFM, Oxford area): Episode 62",
+        "Oxford University Museum of Natural History: Museums Late Night exhibit"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "role": "Organiser",
+      "activity": "Advances in coccolithophore research workshop",
+      "year": "2025",
+      "note": "Secured £2,500 funding from British Phycological Society and The Challenger Society"
+    },
+    {
+      "role": "Volunteer",
+      "activity": "FoodCycle Cambridge (cooking and serving meals from surplus food)",
+      "year": "2025-present"
+    },
+    {
+      "role": "Environment Committee Member",
+      "institution": "Jesus College, University of Cambridge",
+      "year": "2024-present"
+    },
+    {
+      "role": "Volunteer",
+      "activity": "Oxunboxed plastic-free organic refill shop, Oxford Hub",
+      "year": "2020-2022"
+    },
+    {
+      "role": "DPhil Representative",
+      "activity": "Joint Consultative Committee (Graduate), Dept. of Earth Sciences, Oxford",
+      "year": "2020-2021"
+    },
+    {
+      "role": "Social Secretary",
+      "activity": "Clarendon Council, University of Oxford",
+      "year": "2020-2021"
+    },
+    {
+      "role": "Volunteer",
+      "activity": "Akanksha Foundation (taught mathematics to underprivileged children)",
+      "year": "2018-2019"
     }
   ]
 }
