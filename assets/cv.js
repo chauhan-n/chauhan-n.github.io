@@ -55,8 +55,8 @@ async function renderCV() {
 
      html += listSection('Teaching & Supervision Experience', data.teaching, it => `
       <div class="item">
-        <h3>${it.name}</h3>
-        <div class="subtle">${it.org} • ${it.year}</div>
+        <h3>${it.role}</h3>
+        <div class="subtle">${it.activity} • ${it.institution}• ${it.year}</div>
         ${it.note ? `<p>${it.note}</p>` : ''}
       </div>
     `);
