@@ -131,7 +131,7 @@
     },
     {
       "role": "Practical/Tutorial Instructor",
-      "courses": [
+      "activity": [
         "Climate Tutorials and Practical (3rd Year)",
         "Isotope Geology Practical (2nd Year)",
         "Sedimentary Petrography Practical (2nd Year)",
@@ -145,7 +145,7 @@
   "outreach": [
     {
       "year": "2024",
-      "activities": [
+      "activity": [
         "Summer science exhibition at The Royal Society (In your element exhibit)",
         "Goodbye Greenhouse Gas! UK Energy Research Centre demonstration",
         "Science on the Radio (WRFM, Oxford area): Episode 62",
