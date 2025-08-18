@@ -45,13 +45,31 @@ async function renderCV() {
       </section>`;
     }
 
-    html += listSection('Publications', data.publications, it => `
+    html += listSection('Grants & Awards', data.awards, it => `
       <div class="item">
-        <p>${it.authors} (${it.year}). <em>${it.title}</em>. ${it.venue}${it.doi ? ` — <a href="${it.doi}" target="_blank" rel="noopener">DOI</a>` : ''}</p>
+        <h3>${it.name}</h3>
+        <div class="subtle">${it.org} • ${it.year}</div>
+        ${it.note ? `<p>${it.note}</p>` : ''}
       </div>
     `);
 
-    html += listSection('Grants & Awards', data.awards, it => `
+     html += listSection('Teaching & Supervision Experience', data.teaching, it => `
+      <div class="item">
+        <h3>${it.name}</h3>
+        <div class="subtle">${it.org} • ${it.year}</div>
+        ${it.note ? `<p>${it.note}</p>` : ''}
+      </div>
+    `);
+
+     html += listSection('Outreach Experience', data.outreach, it => `
+      <div class="item">
+        <h3>${it.name}</h3>
+        <div class="subtle">${it.org} • ${it.year}</div>
+        ${it.note ? `<p>${it.note}</p>` : ''}
+      </div>
+    `);
+
+     html += listSection('Volunteering Experience', data.volunteer, it => `
       <div class="item">
         <h3>${it.name}</h3>
         <div class="subtle">${it.org} • ${it.year}</div>
