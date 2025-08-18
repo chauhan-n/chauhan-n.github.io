@@ -112,6 +112,7 @@
     },
     {
       "name": "Oxford University Careers Service Innovation Award",
+      "org": "University of Oxford"
       "year": "2022"
     }
   ],
@@ -155,7 +156,7 @@
   "volunteer": [
     {
       "role": "Organiser",
-      "activity": "Advances in coccolithophore research workshop",
+      "activity": "Advances in coccolithophore Research Workshop",
       "year": "2025",
       "note": "Secured £2,500 funding from British Phycological Society and The Challenger Society"
     },
