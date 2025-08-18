@@ -1,0 +1,14 @@
+{
+  "personal-recommendations": {
+    "title": "Personal Recommendations!",
+    "date": "2025-08-18",
+    "tags": ["Personal", "Books", "Music"],
+    "content": "<p>Here are my top picks for books, music, and podcasts this month!</p><ul><li>Book: Atomic Habits</li><li>Album: Random Access Memories</li><li>Podcast: Huberman Lab</li></ul>"
+  },
+  "second-blog": {
+    "title": "My Second Blog",
+    "date": "2025-08-19",
+    "tags": ["Work", "Research"],
+    "content": "<p>This is my second blog post about balancing research and life.</p>"
+  }
+}
