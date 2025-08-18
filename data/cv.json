@@ -144,13 +144,24 @@
   ],
   "outreach": [
     {
+      "activity": "In your element exhibit at the Summer science exhibition",
       "year": "2024",
-      "activity": [
-        "Summer science exhibition at The Royal Society (In your element exhibit)",
-        "Goodbye Greenhouse Gas! UK Energy Research Centre demonstration",
-        "Science on the Radio (WRFM, Oxford area): Episode 62",
-        "Oxford University Museum of Natural History: Museums Late Night exhibit"
-      ]
+      "institution": "The Royal Society"
+    },
+      {
+      "activity": "Goodbye Greenhouse Gas!",
+      "year": "2024",
+      "institution": "UK Energy Research Centre"
+    },
+      {
+      "activity": "Science on the Radio: Episode 62",
+      "year": "2024",
+      "institution": "WRFM, Oxford area"
+    },
+      {
+      "activity": "Museums Late Night exhibit",
+      "year": "2024",
+      "institution": "Oxford University Museum of Natural History"
     }
   ],
   "volunteer": [
@@ -166,8 +177,7 @@
       "year": "2025-present"
     },
     {
-      "role": "Environment Committee Member",
-      "institution": "Jesus College, University of Cambridge",
+      "role": "Environment Committee Member, Jesus College, University of Cambridge",
       "year": "2024-present"
     },
     {
