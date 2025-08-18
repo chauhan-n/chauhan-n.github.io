@@ -166,14 +166,13 @@
   ],
   "volunteer": [
     {
-      "role": "Organiser",
-      "activity": "Advances in coccolithophore Research Workshop",
-      "year": "2025",
-      "note": "Secured £2,500 funding from British Phycological Society and The Challenger Society"
+      "role": "Organiser: Advances in coccolithophore Research Workshop",
+      "activity": "Secured £2,500 funding from the British Phycological Society; Co-organised a 3-day hybrid conference and workshop at the Marine Biological Association (MBA), UK ",
+      "year": "2025"
     },
     {
-      "role": "Volunteer",
-      "activity": "FoodCycle Cambridge (cooking and serving meals from surplus food)",
+      "role": "Volunteer: FoodCycle Cambridge",
+      "activity": "Cooking and serving meals from surplus food",
       "year": "2025-present"
     },
     {
@@ -181,8 +180,8 @@
       "year": "2024-present"
     },
     {
-      "role": "Volunteer",
-      "activity": "Oxunboxed plastic-free organic refill shop, Oxford Hub",
+      "role": "Volunteer: Oxford Hub",
+      "activity": "Oxunboxed plastic-free organic refill shop",
       "year": "2020-2022"
     },
     {
@@ -196,8 +195,8 @@
       "year": "2020-2021"
     },
     {
-      "role": "Volunteer",
-      "activity": "Akanksha Foundation (taught mathematics to underprivileged children)",
+      "role": "Volunteer: Akanksha Foundation ",
+      "activity": "Taught Mathematics to underprivileged children",
       "year": "2018-2019"
     }
   ]
