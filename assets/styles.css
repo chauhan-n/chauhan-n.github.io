@@ -24,9 +24,10 @@ body{
 .grid.cards{grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
 .profile-pic {
   display: block;
-  margin: 0 auto;       /* centers horizontally */
-  width: 150px;
+  margin: 0;       /* centers horizontally */
+  width: 220px;
   border-radius: 50%;
+  border: 2px solid #ccc; 
 }
 .card{
   background:var(--card);
