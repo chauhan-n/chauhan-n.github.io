@@ -17,7 +17,7 @@
 <main class="container section cv" id="cv-container">
  <div class="cv-header">
   <h1>Curriculum Vitae</h1>
-  <button id="download-pdf">Download CV as PDF</button>
+  <button id="download-pdf">Download CV as PDF </button>
   </div>
   <div id="cv" class="grid"></div>
 </main>
@@ -27,6 +27,15 @@
   <script>
 document.getElementById("download-pdf").addEventListener("click", () => {
     const element = document.getElementById('cv-container'); // only your CV section
+   
+    // Save original styles
+    const originalBg = element.style.backgroundColor;
+    const originalColor = element.style.color;
+
+    // Apply PDF-friendly styles
+    element.style.backgroundColor = "white";
+    element.style.color = "black";
+
     const options = {
         margin: 10,
         filename: 'Nishant_Chauhan_CV.pdf',
@@ -34,8 +43,14 @@ document.getElementById("download-pdf").addEventListener("click", () => {
         html2canvas: { scale: 2 },
         jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
     };
-    html2pdf().set(options).from(element).save();
+
+    html2pdf().set(options).from(element).save().then(() => {
+        // Revert to original styles after export
+        element.style.backgroundColor = originalBg;
+        element.style.color = originalColor;
+    });
 });
+  
 </script>
   
 </body>
