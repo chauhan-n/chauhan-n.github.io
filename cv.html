@@ -26,29 +26,7 @@
  
   <script>
 document.getElementById("download-pdf").addEventListener("click", () => {
-    const element = document.getElementById('cv-container'); // only your CV section
    
-    // Save original styles
-    const originalBg = element.style.backgroundColor;
-    const originalColor = element.style.color;
-
-    // Apply PDF-friendly styles
-    element.style.backgroundColor = "dimgray";
-    element.style.color = "white";
-
-    const options = {
-        margin: 10,
-        filename: 'Nishant_Chauhan_CV.pdf',
-        image: { type: 'jpeg', quality: 0.98 },
-        html2canvas: { scale: 2 },
-        jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
-    };
-
-    html2pdf().set(options).from(element).save().then(() => {
-        // Revert to original styles after export
-        element.style.backgroundColor = originalBg;
-        element.style.color = originalColor;
-    });
 });
   
 </script>
