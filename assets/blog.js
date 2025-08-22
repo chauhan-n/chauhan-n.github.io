@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <h1>${blog.title}</h1>
         <p><small>${blog.date}</small></p>
         <p>${blog.tags.map(tag => `<span class="tag">${tag}</span>`).join(" ")}</p>
-        <div>${blog.content}</div>
+        <div>${blog.content_html}</div>
       `;
     })
     .catch(err => {
