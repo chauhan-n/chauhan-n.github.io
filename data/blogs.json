@@ -1,15 +1,25 @@
 {
    "latest-news": {
     "title": "Latest News",
-    "date": "2025-12-18",
+    "date": "2026-02-09",
     "tags": ["News", "Updates"],
-    "content_html": "<ul>\n<li><strong>18 Dec 2025: </strong> Watched the Musical <q>Book of Mormons</q> at the Prince of Wales Theatre, London. What a funny, mildly offensive but highly entertaining show! Much respect for the actors who were wonderful!</li>\n<li><strong>3 Dec 2025: </strong> Two back-to-back conferences were very tiring! I had lots to think and learn, plus I got to meet some colleagues who do exciting work! I would highly recommend Royal Society meetings to anyone who wishes to expand their academic horizons. </li>\n<li><strong>8 Nov 2025: </strong> A weekend trip to South Wales with your best friends, to play music and attend a Bob Dylan concert... doesn't that sound perfect? Well, it was. </li>\n<li><strong>18 Oct 2025: </strong> I visited Hastings over the weekend to see Graham Nash perform live, and what a performance! I feel so lucky that I get to see my favorite artists perform my favorite songs live! The trip was amazing too! I rode my motorbike all the way and back and it was so much fun!</li>\n<li><strong>12 Sep 2025: </strong> Just attended (and co-organised) the Advances in Coccolithophore Research 2025 meeting in Plymouth, UK. What a great conference (I'm biased, ofc)! By in all honesty, what I thoroughly enjoy about this conference (and its past iterations) is the small size, where you get to really know the academics in your field. Unlike large conferences with multiple simultaneous sessions, this was a small room with 34ish people listening to the same talk. I would definitely recommend finding a similar conference within your field. </li>\n<li><strong>8 Sep 2025: </strong> I completed my first ever solo moto-camping trip where I solo camped, and walked along the Coast Path in Devon and Cornwall, UK. What a blast! </li>\n<li><strong> 30 Aug 2025: </strong> My visit to Oxford has come to an end. I was based at the department of Earth Science, University of Oxford, where I was doing some culture experiments on coccolithophores! Watch this space for more updates on that! </li>\n</ul>"
+    "content_html": "<ul>",
+      "<li><strong>9 Feb 2026: </strong> Coming back from a long weekend trip to Naples, Italy. I highly recommend a visit to mount Vesuvius, Pompeii and the Sotterranea (Naples underground).</li>",
+      "<li><strong>3 Feb 2026: </strong> After a guelling three weeks of continuous lab work, I have finally completed the extraction of my second coccolithophore experiemnt! Watch out for some cool new studies that use decoupled carbonate chemistry to answer some intriguing questions about coccolithophore physiology and biochemistry!</li>",
+      "<li><strong>18 Dec 2025: </strong> Watched the Musical <q>Book of Mormons</q> at the Prince of Wales Theatre, London. What a funny, mildly offensive but highly entertaining show! Much respect for the actors who were wonderful!</li>",
+      "<li><strong>3 Dec 2025: </strong> Two back-to-back conferences were very tiring! I had lots to think and learn, plus I got to meet some colleagues who do exciting work! I would highly recommend Royal Society meetings to anyone who wishes to expand their academic horizons. </li>",
+      "<li><strong>8 Nov 2025: </strong> A weekend trip to South Wales with your best friends, to play music and attend a Bob Dylan concert... doesn't that sound perfect? Well, it was. </li>",
+      "<li><strong>18 Oct 2025: </strong> I visited Hastings over the weekend to see Graham Nash perform live, and what a performance! I feel so lucky that I get to see my favorite artists perform my favorite songs live! The trip was amazing too! I rode my motorbike all the way and back and it was so much fun!</li>",
+      "<li><strong>12 Sep 2025: </strong> Just attended (and co-organised) the Advances in Coccolithophore Research 2025 meeting in Plymouth, UK. What a great conference (I'm biased, ofc)! By in all honesty, what I thoroughly enjoy about this conference (and its past iterations) is the small size, where you get to really know the academics in your field. Unlike large conferences with multiple simultaneous sessions, this was a small room with 34ish people listening to the same talk. I would definitely recommend finding a similar conference within your field. </li>",
+      "<li><strong>8 Sep 2025: </strong> I completed my first ever solo moto-camping trip where I solo camped, and walked along the Coast Path in Devon and Cornwall, UK. What a blast! </li>",
+      "<li><strong>30 Aug 2025: </strong> My visit to Oxford has come to an end. I was based at the department of Earth Science, University of Oxford, where I was doing some culture experiments on coccolithophores! Watch this space for more updates on that! </li>",
+      "</ul>"
   },
   "personal-recommendations": {
     "title": "Personal Recommendations!",
-    "date": "2025-12-15",
+    "date": "2026-02-15",
     "tags": ["Personal", "Books", "Music"],
-    "content_html": "<p>Here are my latest picks for books, music, and podcasts! </p>\n<ul>\n<li><strong>Book:</strong> The Namesake by Jhumpa Lahiri</li>\n<li><strong>Album:</strong> Beatles Anthology 4 </li>\n<li><strong>Podcast:</strong> Bold Politics - Zack Polanski</li>\n</ul>"
+    "content_html": "<p>Here are my latest picks for books, music, and podcasts! </p>\n<ul>\n<li><strong>Book:</strong> Driving Over Lemons by Chris Stewart</li>\n<li><strong>Album:</strong> Neil Young: Psychedelic Pill </li>\n<li><strong> Podcast:</strong> Rest is Science - Michael Stevens and Professor Hannah Fry. </li>\n</ul>"
   },
    "bess-2025": {
     "title": "Battery Energy Storage Systems: The answer to the renewable grid instability?",
