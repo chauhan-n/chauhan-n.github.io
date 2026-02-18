@@ -15,14 +15,14 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("blog-content").innerHTML = "<p>Blog not found.</p>";
         return;
       }
-
-      document.title = blog.title;
-      document.getElementById("blog-content").innerHTML = `
-        <h1>${blog.title}</h1>
-        <p><small>${blog.date}</small></p>
-        <p>${blog.tags.map(tag => `<span class="tag">${tag}</span>`).join(" ")}</p>
-        <div>${blog.content_html}</div>
-      `;
+    document.getElementById("blog-content").innerHTML = `
+      <h1>${blog.title}</h1>
+      <p><small>${blog.date}</small></p>
+      <p>${blog.tags.map(tag => `<span class="tag">${tag}</span>`).join(" ")}</p>
+      <div>
+        ${Array.isArray(blog.content_html) ? blog.content_html.join("") : blog.content_html}
+       </div>
+    `;
     })
     .catch(err => {
       console.error("Error loading blog:", err);
