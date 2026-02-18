@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <p><small>${blog.date}</small></p>
       <p>${blog.tags.map(tag => `<span class="tag">${tag}</span>`).join(" ")}</p>
       <div>
-        ${Array.isArray(blog.content_html) ? blog.content_html.join("") : blog.content_html}
+        ${Array.isArray(blog.content_html) ? blog.content_html.join("").trim() : blog.content_html}
        </div>
     `;
     })
