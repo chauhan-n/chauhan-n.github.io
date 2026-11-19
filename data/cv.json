@@ -7,7 +7,7 @@
       "start": "2024-06",
       "end": "present",
       "location": "Cambridge, UK",
-      "description": "Investigating the molecular mechanisms controlling biomineralisation in marine organisms; co-supervising 2 PhD students."
+      "description": "Investigating the molecular mechanisms controlling biomineralisation in marine organisms."
     },
     {
       "title": "College Post-doctoral Associate (non-stipendiary)",
@@ -89,6 +89,12 @@
     "Languages: Hindi (native), Spanish (B2)"
   ],
   "awards": [
+     {
+      "name": "MBA Peter Baker Investigatorship",
+      "org": "Marine Biological Association, Plymouth, UK.",
+      "year": "2026",
+      "note": "£4,926 for invstigating Carbon concentrating mechanisms in coccolithophores."
+    },
     {
       "name": "NERC Environmental Omics Facility Pilot Grant",
       "org": "NERC",
@@ -118,7 +124,7 @@
   ],
   "teaching": [
     {
-      "role": "Co-supervisor",
+      "role": "Informal supervisor",
       "activity": "2 PhD students",
       "institution": "University of Cambridge",
       "year": "2024-present"
@@ -142,6 +148,51 @@
       "year": "2020-2024"
     }
   ],
+   "talks": [
+     {
+      "name": "Speaker – Marine Alliance for Science and Technology for Scotland (MASTS)",
+      "date": "Nov 2026",
+      "note": "Annual Science Meeting, Marine Biogeochemistry Special Session."
+    },
+     {
+      "name": "Speaker – Gordon Research Seminar on Biomineralisation",
+      "date": "Jul 2026"
+    },
+    {
+      "name": "Poster – Gordon Research Conference on Biomineralisation",
+      "date": "Jul 2026"
+    },
+      {
+      "name": "Poster – Advances in Coccolithophore Research Workshop 2025",
+      "date": "Sep 2025"
+    },
+      {
+      "name": "Invited Speaker – Dept. of Earth Sciences Seminar, University of Cambridge",
+      "date": "Nov 2024"
+    },
+      {
+      "name": "Invited Speaker – Gal Lab Seminar, Weizmann Institute of Science, Israel",
+      "date": "Feb 2024"
+    },
+   {
+      "name": "Invited Speaker – Advances in Coccolithophore Research Workshop 2023",
+      "date": "Sep 2023",
+     "note": "Won Best Student Presentation Award"     
+    },
+    {
+      "name": "Marine Biogeochemistry Training School – CCMAR, University of Algarve, Portugal",
+      "date": "Jun 2022"
+    },
+    {
+      "name": "Invited Speaker – Comer Climate Conference 2021, USA",
+      "date": "Oct 2021"
+    },
+     {
+      "name": "National Conference on Challenges in Earth System Science (CESS-GS) – IIT Kharagpur",
+      "date": "Jan 2020",
+       "note":"Third prize – Oceanic Processes"
+    },
+   ]
   "outreach": [
     {
       "activity": "In your element exhibit at the Summer science exhibition",
