@@ -65,7 +65,14 @@ async function renderCV() {
         ${it.note ? `<p>${it.note}</p>` : ''}
       </div>
     `);
-
+    // Talks
+    html += listSection('Conferences & Invited Talks', data.talks, it => `
+      <div class="item">
+        <h3>${it.name}</h3>
+        <div class="subtle"> ${it.date}</div>
+        ${it.note ? `<p>${it.note}</p>` : ''}
+      </div>
+    `);
     // Teaching
     html += listSection('Teaching & Supervision Experience', data.teaching, it => `
       <div class="item">
